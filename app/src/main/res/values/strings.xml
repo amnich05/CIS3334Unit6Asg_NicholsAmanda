@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CIS3334Unit6Asg_NicholsAmanda</string>
+    <string name="contact1">Mike</string>
+    <string name="contact2">Mom</string>
+    <string name="contact3">Dad</string>
+
+    <string name="contact1Num">2185137899</string>
+    <string name="contact2Num">2188211995</string>
+    <string name="contact3Num">2188210712</string>
+
+    <string-array name="messages">
+        <item>Hi</item>
+        <item>Okay</item>
+        <item>"I'm here"</item>
+        <item>On my way</item>
+        <item>Where are you?</item>
+        <item>I Love You!</item>
+    </string-array>
+
+</resources>
